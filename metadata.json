@@ -1,0 +1,5 @@
+{
+  "name": "ServiceConnect - Sistema de Chamados & WhatsApp",
+  "description": "Uma plataforma profissional para prestação de serviços com sistema de chamados integrado ao WhatsApp, arquitetura escalável e suporte a anúncios.",
+  "requestFramePermissions": []
+}
